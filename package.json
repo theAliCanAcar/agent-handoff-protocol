@@ -1,0 +1,27 @@
+{
+  "name": "agent-handoff-protocol",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Immutable versioned assignments between agents.",
+  "main": "agent-handoff-protocol.js",
+  "exports": {
+    ".": "./agent-handoff-protocol.js"
+  },
+  "files": [
+    "agent-handoff-protocol.js",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "agents",
+    "reliability",
+    "verification",
+    "agent-handoff-protocol"
+  ],
+  "license": "MIT"
+}
